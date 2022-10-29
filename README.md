@@ -9,7 +9,7 @@ vRP Scripts Made by **Sp1ry**
 * Required:
   * You need the Dunko vRP Framework for the jobs to work;(www.google.ro)
   * dpemotes
-  * https://github.com/Mobius1/rprogress
+  * [rprogress](https://github.com/Mobius1/rprogress)
 
 # Download & Installation:
 1) Download Master & Extract the .zip or Open the .zip Or [Click Me]( https://github.com/HumanTree92/VENT_ESX_Scripts/archive/refs/heads/main.zip )
