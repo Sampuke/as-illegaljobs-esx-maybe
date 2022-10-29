@@ -13,7 +13,7 @@ vRP Scripts Made by **Sp1ry**
 
 # Download & Installation:
 1) Download the file and extract it to your server
-2) Add `ensure corejobs in server.cfg"` to your server.cfg
+2) Add `ensure corejobs` to your server.cfg
 3) (Re)Start your server
 
 # KNOWN BUGS:
