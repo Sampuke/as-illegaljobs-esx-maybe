@@ -7,14 +7,14 @@ vRP Scripts Made by **Sp1ry**
 
 # Requirements:
 * Required:
-  * You need the Dunko vRP Framework for the jobs to work;(www.google.ro)
-  * dpemotes
+  * [Dunko vRP](https://github.com/br8ugh/dunko_vrp_ex)
+  * [dpemotes](https://forum.cfx.re/t/dpemotes-1-7-390-emotes-walkingstyles-keybinding-dances-expressions-and-shared-emotes/843105)
   * [rprogress](https://github.com/Mobius1/rprogress)
 
 # Download & Installation:
-1) Download Master & Extract the .zip or Open the .zip Or [Click Me]( https://github.com/HumanTree92/VENT_ESX_Scripts/archive/refs/heads/main.zip )
-2) Add `setr esx_MenuAlign "top-right"` to your server.cfg & Change top-right to whatever side you want
-3) Read the README's of whatever script you plan on using.
+1) Download the file and extract it to your server
+2) Add `ensure corejobs in server.cfg"` to your server.cfg
+3) (Re)Start your server
 
 # KNOWN BUGS:
-* People not using their Brains. Read the README's!!!
+Currently none
