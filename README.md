@@ -4,6 +4,7 @@ vRP Scripts Made by **Sp1ry**
 # Helpfull Info:
 * A pack of 3 simple illegal jobs done quickly and easily.
 * If you need help, message me on discord
+* You also have the item icons for the inventory (this if you use one)
 
 # Requirements:
 * Required:
