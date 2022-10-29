@@ -8,6 +8,7 @@
   * [Dunko vRP](https://github.com/br8ugh/dunko_vrp_ex)
   * [dpemotes](https://forum.cfx.re/t/dpemotes-1-7-390-emotes-walkingstyles-keybinding-dances-expressions-and-shared-emotes/843105)
   * [rprogress](https://github.com/Mobius1/rprogress)
+  * [datacrack](https://github.com/utkuali/datacrack)
 
 # Download & Installation:
 1) Download the file and extract it to your server
